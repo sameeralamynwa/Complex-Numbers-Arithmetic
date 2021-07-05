@@ -345,5 +345,5 @@
 					    solve();
 					}	
 					
-					    return 0LL;
+					    return 0;
 					}
